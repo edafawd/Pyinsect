@@ -29,4 +29,4 @@ Then after you select your model you will have to enter the path to the PNG file
 not be very accurate).
 
 
-Thanks The Pyinsect Team
+Thanks The Pyinsect Team :) 
