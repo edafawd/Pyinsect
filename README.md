@@ -1,1 +1,1 @@
-Please use the ones that do not say (MAIN)
+Please do not use the ones that do not say (MAIN)
